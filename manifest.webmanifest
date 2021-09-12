@@ -1,0 +1,7 @@
+{
+  "name": "B-Side-Yoga",
+  "icons": [
+    { "src": "dist/png/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "dist/png/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
